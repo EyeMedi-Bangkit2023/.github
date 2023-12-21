@@ -1,5 +1,7 @@
 # Bangkit 2023 Capstone Team : EyeMedi Team (CH2-PS454)
-
+<p align="center">
+  <img width="240" src="https://github.com/EyeMedi-Bangkit2023/EyeMedi-Mobile-Development/blob/main/logo.jpg">
+</p>
 Hello everyone!. Here is our repository for Bangkit 20223 Capstone project. Our team consist of 2 Machine Learning, 1 Android, and 2 Cloud Computing.
  
 
