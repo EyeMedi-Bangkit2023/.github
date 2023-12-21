@@ -1,4 +1,4 @@
-# Bangkit 2023 Capstone Team : EyeMedi Team (B21-CAP0036)
+# Bangkit 2023 Capstone Team : EyeMedi Team (CH2-PS454)
 
 Hello everyone!. Here is our repository for Bangkit 20223 Capstone project. Our team consist of 2 Machine Learning, 1 Android, and 2 Cloud Computing.
  
@@ -17,4 +17,5 @@ Hello everyone!. Here is our repository for Bangkit 20223 Capstone project. Our 
 Theme : Human Healthcare and Living Wellbeings
 
 ## Tech Stack
+![stack](https://github.com/EyeMedi-Bangkit2023/.github/blob/main/techstack.png)
 
